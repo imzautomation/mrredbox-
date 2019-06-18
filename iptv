@@ -1,0 +1,603 @@
+#EXTM3U
+#EXTINF:-1, group-title="Telugu", TBO Telugu Classics
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/index.m3u8
+#EXTINF:-1, group-title="Telugu", TBO Telugu Premium
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelpre.stream_all/index.m3u8
+#EXTINF:-1, group-title="Telugu", TBO Telugu Comedy
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/index.m3u8
+#EXTINF:-1, group-title="Telugu", ETV Telugu HD
+http://195.181.169.151:8080/ETVHD/TELU/index.m3u8
+#EXTINF:-1, group-title="Telugu", Maa Movies US
+http://195.181.169.151:8080/MaaMoviesUS-telu/index.m3u8
+#EXTINF:-1, group-title="Telugu", Maa Movies
+http://195.181.169.151:8080/MaaMovies-telu/index.m3u8
+#EXTINF:-1, group-title="Telugu", Maha News
+http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Maha_News/Maha_News_1200.m3u8
+#EXTINF:-1, group-title="Telugu", Gemini TV HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Gemini_TV_HD/Gemini_TV_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Gemini TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226517/index.m3u8
+#EXTINF:-1, group-title="Telugu", HM TV
+http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/HM_TV/HM_TV_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", 10TV M
+http://mhms9.airtel.tv:80/PLTV/88888888/224/3221226351/index.m3u8
+#EXTINF:-1, group-title="Telugu", NTV
+http://mhms6.airtel.tv:80/PLTV/88888888/224/3221226141/index.m3u8
+#EXTINF:-1, group-title="Telugu", Jio Telugu Hits HD
+http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Jio_Telugu_Hits_HD/Jio_Telugu_Hits_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Jio Telugu Hits HQ
+http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/Jio_Telugu_Hits_HD/Jio_Telugu_Hits_HD_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Gemini Movies M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226528/index.m3u8
+#EXTINF:-1, group-title="Telugu", Gemini Music M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226521/index.m3u8
+#EXTINF:-1, group-title="Telugu", Gemini Comedy
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Gemini_Comedy/Gemini_Comedy_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Gemini life
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226522/index.m3u8
+#EXTINF:-1, group-title="Telugu", ETV Telengana
+http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/ETV_Telangana/ETV_Telangana_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", ETV Telugu
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Telugu/ETV_Telugu_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", ETV Cinema
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Cinema/ETV_Cinema_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", ETV Plus
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Plus/ETV_Plus_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", ETV Abhiruchi
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Abhiruchi/ETV_Abhiruchi_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", ETV Life
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Life/ETV_Life_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", ETV Andhra Pradesh
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Andhra_pradesh/ETV_Andhra_pradesh_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Zee Telugu
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Telugu/Zee_Telugu_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Zee Cinemalu
+http://cshms1.airtel.tv/PLTV/88888888/224/3221226098/index.m3u8
+#EXTINF:-1, group-title="Telugu", Star Maa Movies HS HQ
+http://maamovies-i.akamaihd.net/hls/live/569931/maamovies/master_2000.m3u8
+#EXTINF:-1, group-title="Telugu", Maa Gold HS HQ
+http://maagold-i.akamaihd.net/hls/live/569932/maagold/master_1200.m3u8
+#EXTINF:-1, group-title="Telugu", Maa TV HS HQ
+http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8
+#EXTINF:-1, group-title="Telugu", Maa TV HD FHD
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Maa_HD/Maa_HD_JSRV11_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Maa Music FHD
+http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Maa_Music/Maa_Music_JSRV11_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Maa Gold HD
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Maa_Gold_SD/Maa_Gold_SD_JSRV7_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Maa Movies
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Maa_Movies_HD/Maa_Movies_HD_JSRV1_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Raj News
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Raj_News_Telugu/Raj_News_Telugu_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Raj Music
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Raj_Music_Telugu/Raj_Music_Telugu_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", TV5 Telugu
+http://mhms9.airtel.tv:80/PLTV/88888888/224/3221226350/index.m3u8
+#EXTINF:-1, group-title="Telugu", TV9 Telugu
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TV9_Telugu_News/TV9_Telugu_News_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", V6 News
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/V6_News/V6_News_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Vanitha
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Vanitha/Vanitha_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", I News
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/I_News/I_News_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Sakshi
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sakshi_tv/Sakshi_tv_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", SVBC
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sri_Venkateshwar_Bhakti/Sri_Venkateshwar_Bhakti_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", Vissa
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Vissa_TV/Vissa_TV_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", DD Saptagiri
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Saptagiri/DD_Saptagiri_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Telugu", DD Saptagiri M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1, group-title="Telugu", DD Yadagiri M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226347/index.m3u8
+#EXTINF:-1, group-title="Telugu", CVR Health M
+http://mhms11.airtel.tv/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1, group-title="English News", Mirror Now
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Magic_bricks_Now/Magic_bricks_Now_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English News", DD India M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226293/index.m3u8
+#EXTINF:-1, group-title="English News", NDTV 24x7 H
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225771/index.m3u8
+#EXTINF:-1, group-title="English News", NDTV 24x7
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_24x7/NDTV_24x7_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English News", NDTV Prime
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225781/index.m3u8
+#EXTINF:-1, group-title="English News", CNN 18
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CNN_NEWS_18/CNN_NEWS_18_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English News", ET Now
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ET_Now/ET_Now_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English News", Republic TV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Republic_TV/Republic_TV_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English News", Wion
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226363/index.m3u8
+#EXTINF:-1, group-title="English News", Times Now
+http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Times_Now_HD/Times_Now_HD_JSRV6_1200?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English News", Times Now HD
+http://mhms11.airtel.tv:80/PLTV/88888888/224/3221226572/index.m3u8
+#EXTINF:-1, group-title="English News", Sky News
+http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sky_News/Sky_News_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English News", Sky News
+http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sky_News/Sky_News_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English News", AlJazeera Eng
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AL_Jazeera/AL_Jazeera_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English News", AlJazeera Eng
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AL_Jazeera/AL_Jazeera_600.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English News", AlJazeera Eng
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/index.m3u8
+#EXTINF:-1, group-title="English News", BBC World
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/BBC_World_News/BBC_World_News_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English News", DW News Germany
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/dw/dw_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English News", Euro News
+http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Euro_News/Euro_News_JSRV12_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English News", India Today High
+https://hshlsnews14-i.akamaihd.net/hls/live/625570/indiatodayevent/indiatoday_5/chunklist.m3u8
+#EXTINF:-1, group-title="Hindi Entertainment", Sony HD
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_JSRV6_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Sony SD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8
+http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_JSRV6_8000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Sony SAB HD L
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226078/03.m3u8
+#EXTINF:-1, group-title="Hindi Entertainment", Zee TV HD
+http://sambdcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD_JSRV1_8000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Zee TV HD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:-1, group-title="Hindi Entertainment", Colors HD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Colors_HD/Colors_HD_JSRV6_8000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", And TV HD
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/And_TV_HD/And_TV_HD_JSRV6_8000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", And TV HD M
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226084/index.m3u8
+#EXTINF:-1, group-title="Hindi Entertainment", Star Plus HD FHD+
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_PlusHD/Star_PlusHD_JSRV12_8000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Star Plus HD FHD
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_PlusHD/Star_PlusHD_JSRV12_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Star Plus HD FHD
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_PlusHD/Star_PlusHD_JSRV12_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Star Plus HD HD
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_PlusHD/Star_PlusHD_JSRV12_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Star Plus HD HD
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_PlusHD/Star_PlusHD_JSRV12_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Star Plus
+http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Plus/Star_Plus_JSRV7_1200.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Star Plus
+http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Plus/Star_Plus_JSRV7_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Star Plus
+http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Plus/Star_Plus_JSRV7_8000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Star Plus HS HQ
+http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
+#EXTINF:-1, group-title="Hindi Entertainment", Star Bharat HS HQ
+http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_2000.m3u8
+#EXTINF:-1, group-title="Hindi Entertainment", Star Bharat HD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Bharat_HD/Star_Bharat_HD_JSRV5_8000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Rishtey HD JTV LQ
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey/Rishtey_600.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Sony Pal M
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226200/index.m3u8
+#EXTINF:-1, group-title="Hindi Entertainment", Epic HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", Jeet Prime HD M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226479/index.m3u8
+#EXTINF:-1, group-title="Hindi Entertainment", Zee Anmol M
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226199/index.m3u8
+#EXTINF:-1, group-title="Hindi Entertainment", ArrĂ©
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Arre/Arre_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Entertainment", DD India M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226293/index.m3u8
+#EXTINF:-1, group-title="Hindi Entertainment", DD Bharati M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226291/index.m3u8
+#EXTINF:-1, group-title="Hindi Entertainment", DD National M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226296/index.m3u8
+#EXTINF:-1, group-title="Hindi Entertainment", Home Shop 18
+http://mhms8.airtel.tv:80/PLTV/88888888/224/3221226354/index.m3u8
+#EXTINF:-1, group-title="Hindi Movies", Sony Max HD L
+http://cshms2.airtel.tv/PLTV/88888888/224/3221225776/03.m3u8
+#EXTINF:-1, group-title="Hindi Movies", Sony Max 2
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_MAX2/Sony_MAX2_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Movies", Sony MAX 2 M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1, group-title="Hindi Movies", Sony Wah
+http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/index.m3u8
+#EXTINF:-1, group-title="Hindi Movies", Zee Cinema HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Movies", ZeeCinema M
+http://cshms1.airtel.tv/PLTV/88888888/224/3221225935/index.m3u8
+#EXTINF:-1, group-title="Hindi Movies", Zee Action
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Action/Zee_Action_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Movies", Zee Classic
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Classic/Zee_Classic_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Movies", Zee Bollywood M
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
+#EXTINF:-1, group-title="Hindi Movies", And Pictures HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_Pictures_HD/And_Pictures_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Movies", And Pictures
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226049/index.m3u8
+#EXTINF:-1, group-title="Hindi Movies", Star Gold
+http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_GoldHD/Star_GoldHD_JSRV11_8000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Movies", Star Gold Select
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Gold_Select_HD/Star_Gold_Select_HD_JSRV10_8000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Movies", Star Gold Select SD
+http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Gold_Select/Star_Gold_Select_JSRV1_8000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Movies", B4U Movies
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/index.m3u8
+#EXTINF:-1, group-title="Hindi Movies", Rishtey Cineplex
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Rishtey_Cineplex/Rishtey_Cineplex_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Movies", Movies OK HS HQ
+http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8
+#EXTINF:-1, group-title="Hindi Movies", Jio Bollywood Classic FHD
+http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Jio_Bollywood_Classic_HD/Jio_Bollywood_Classic_HD_JSRV9_4000?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Movies", Jio Bollywood Premium HD LQ
+http://smumcdnems01.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/EROSNOW_Hindi_Premium/EROSNOW_Hindi_Premium_600.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Movies", Rishtey Cineplex
+https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/playlist.m3u8
+#EXTINF:-1, group-title="Hindi Movies", Zee Cinema US
+http://161.0.157.50/PLTV/88888888/224/3221226709/index.m3u8
+#EXTINF:-1, group-title="Hindi Movies", B4U Movies
+http://161.0.157.5/PLTV/88888888/224/3221226255/index.m3u8
+#EXTINF:-1, group-title="Hindi Movies", B4U PLUS
+http://95.170.215.124/live/disk1/B4u_Plus/anevia1/B4u_Plus.m3u8
+#EXTINF:-1, group-title="Hindi Movies", IMAGINE MOVIES (Urdu Sub.)
+http://95.170.215.124/live/disk1/Imagine_Movies/anevia1/Imagine_Movies.m3u8
+#EXTINF:-1, group-title="Hindi Movies", ZEE AFLAM (Urdu Sub.)
+http://95.170.215.124/live/disk1/Zee_Aflam/anevia1/Zee_Aflam.m3u8?sd=10&rebase=on
+#EXTINF:-1, group-title="Hindi Movies", MBC BOLLYWOOD HD 720
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1, group-title="Hindi Movies", MBC BOLLYWOOD HD 480
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
+#EXTINF:-1, group-title="Hindi Movies", Classics Hindi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/playlist.m3u8
+#EXTINF:-1, group-title="Hindi Movies", Premium Hindi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhinpre.stream_all/playlist.m3u8
+#EXTINF:-1, group-title="Sports", Eng 1 360p
+http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_184.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1, group-title="Sports", Eng 1 720p
+http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1, group-title="Sports", Eng 2 360p
+http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/master_184.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1, group-title="Sports", Eng 2 720p
+http://mumsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/master_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1, group-title="Sports", Hindi 720p
+http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1, group-title="Sports", Hindi 360p
+http://smumcdnems03.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_184.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="JioTV Adobe Primetime"
+#EXTINF:-1, group-title="Sports", StarSports HD1 Hindi FHD+
+http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_HD1_Hindi/Star_Sports_HD1_Hindi_JSRV7_8000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", StarSports1 Hindi FHD+
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_3/Star_Sports_3_JSRV2_8000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", StarSports HD2 FHD+
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_HD2/Star_Sports_HD2_JSRV11_8000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", StarSports HD2 FHD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_HD2/Star_Sports_HD2_JSRV11_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", StarSports2 FHD+
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Sports_2/Star_Sports_2_JSRV12_8000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", StarSports2 FHD
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Sports_2/Star_Sports_2_JSRV12_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", StarSports2 HD
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Sports_2/Star_Sports_2_JSRV12_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Star Select HD1 HD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_JSRV10_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Star Select HD1 FHD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_JSRV10_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Star Select HD2 HD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_JSRV6_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Star Select HD2 FHD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2_JSRV6_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", StarSports First HD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_First/Star_Sports_First_JSRV12_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", StarSports First FHD
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Sports_First/Star_Sports_First_JSRV12_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Sports HD
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Sports/Jio_Sports_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Cricket 1 HD
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Cricket_1_HD/Jio_Cricket_1_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Cricket 2 HD TEST
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Cricket_2_HD/Jio_Cricket_2_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Cricket 3 HD
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Cricket_3_HD/Jio_Cricket_3_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Cricket Eng1 HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Cricket_English1/Jio_Cricket_English1_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Cricket Eng HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Cricket_English1/Jio_Cricket_English_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Cricket Hindi HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Cricket_Hindi/Jio_Cricket_Hindi_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Cricket Hindi HD
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Cricket_Hindi/Jio_Cricket_Hindi_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Cricket Hindi HQ
+http://bbsrsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Cricket_Hindi/Jio_Cricket_Hindi_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Cricket Hindi HQ
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Cricket_Hindi/Jio_Cricket_Hindi_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Cricket Telugu HQ
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Cricket_Telugu/Jio_Cricket_Telugu_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Cricket Tamil HQ
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Cricket_Tamil/Jio_Cricket_Tamil_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Cricket Kannada HQ
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Cricket_Kannada/Jio_Cricket_Kannada_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Football HQ
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Football/Jio_Football_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Football 1 HQ
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Football_1/Jio_Football_1_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Football 2 HQ
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Football_2/Jio_Football_2_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Football 3 HQ
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Football_3/Jio_Football_3_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Jio Football 4 HQ
+http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jio_Football_4/Jio_Football_4_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", Sony Ten 1
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1, group-title="Sports", Sony Ten 2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:-1, group-title="Sports", Sony Ten 3
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1, group-title="Sports", Sony Six M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:-1, group-title="Sports", ESPN HD M
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:-1, group-title="Sports", DD Sports
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Sports/DD_Sports_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Sports", DSports
+http://mhms8.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
+#EXTINF:-1, group-title="Sports", DSports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1, group-title="Sports", BEIN 11 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport11.m3u8|User-Agent="Lavf/56.15.102"
+#EXTINF:-1, group-title="Sports", BEIN 12 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8|User-Agent="Lavf/56.15.102"
+#EXTINF:-1, group-title="Sports", BEIN 13 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport13.m3u8|User-Agent="Lavf/56.15.102"
+#EXTINF:-1, group-title="Sports", BEIN 14 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport14.m3u8|User-Agent="Lavf/56.15.102"
+#EXTINF:-1, group-title="Sports", BEIN 15 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport15.m3u8|User-Agent="Lavf/56.15.102"
+#EXTINF:-1, group-title="Sports", Eurosport
+http://193.201.98.123:8000/play/a01r
+#EXTINF:-1, group-title="Sports", MLB Network Linear 1
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1, group-title="Sports", MLB Network Linear 2
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_2/master_wired.m3u8
+#EXTINF:-1, group-title="Sports", Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1, group-title="Sports", Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1, group-title="Sports", FOX Sports Premium HD
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=tru
+#EXTINF:-1, group-title="Sports", ESPN 2 HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1, group-title="Sports", ESPN 2 M
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1, group-title="Sports", CNBC World
+http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
+#EXTINF:-1, group-title="Sports", Abu Dhabi Sports 1
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1, group-title="Sports", Abu Dhabi Sports 2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1, group-title="Sports", CCTV1
+https://cctvalih5c.v.myalicdn.com/live/cctv1_2/index.m3u8?contentid=2820180516001
+#EXTINF:-1, group-title="Sports", CCTV2
+https://cctvalih5c.v.myalicdn.com/live/cctv2_2/index.m3u8?contentid=2820180516001&uid=default
+#EXTINF:-1, group-title="Sports", CCTV3
+https://cctvalih5c.v.myalicdn.com/live/cctv3_2/index.m3u8?contentid=2820180516001&uid=default
+#EXTINF:-1, group-title="Sports", CCTV5
+https://cctvalih5c.v.myalicdn.com/live/cctv5_2/index.m3u8
+#EXTINF:-1, group-title="Sports", CCTV5+
+https://cctvalih5c.v.myalicdn.com/live/cctv5plus_2/index.m3u8
+#EXTINF:-1, group-title="Sports", Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1, group-title="Infotainment", Discovery HD World
+http://mhms10.airtel.tv/wh7f454c46tw1142183649_785079316/PLTV/88888888/224/3221226497/index.m3u8
+#EXTINF:-1, group-title="Infotainment", Discovery Turbo
+http://cshms1.airtel.tv/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:-1, group-title="Infotainment", Animal Planet HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/inddex.m3u8
+#EXTINF:-1, group-title="Infotainment", Animal Planet Full Screen HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1, group-title="Infotainment", TLC English
+http://mhms11.airtel.tv:80/PLTV/88888888/224/3221226496/index.m3u8
+#EXTINF:-1, group-title="Infotainment", TLC Hindi M
+http://cshms1.airtel.tv:80/PLTV/88888888/224/3221225819/index.m3u8
+#EXTINF:-1, group-title="Infotainment", BBC Earth M
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1, group-title="Infotainment", Food Food M
+http://cshms1.airtel.tv:80/PLTV/88888888/224/3221225836/index.m3u8
+#EXTINF:-1, group-title="Infotainment", Fashion TV M
+http://cshms4.airtel.tv:80/PLTV/88888888/224/3221226086/index.m3u8
+#EXTINF:-1, group-title="Infotainment", Flowers TV M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225838/index.m3u8
+#EXTINF:-1, group-title="Infotainment", DD Kisan M
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226294/index.m3u8
+#EXTINF:-1, group-title="Infotainment", GoodTimes Eng M
+http://cshms2.airtel.tv:80/PLTV/88888888/224/3221225774/index.m3u8
+#EXTINF:-1, group-title="Infotainment", Travel XP English
+http://cshms2.airtel.tv:80/PLTV/88888888/224/3221225813/index.m3u8
+#EXTINF:-1, group-title="Infotainment", History18 Hindi FHD+
+http://sngprecdnems16.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/History_18_Hindi/History_18_Hindi_JSRV3_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Infotainment", History HD FHD+
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_HD/History_HD_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Infotainment", Discovery Channel
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery/Discovery_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Infotainment", Discovery Channel Hindi FHD+
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Discovery_Channel_Hindi/Discovery_Channel_Hindi_JSRV13_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Infotainment", Discovery Channel Hindi FHD
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Discovery_Channel_Hindi/Discovery_Channel_Hindi_JSRV13_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Infotainment", Discovery Science JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Science/Discovery_Science_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Infotainment", Animal Planet Hindi High
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_Hindi/Animal_Planet_Hindi_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Infotainment", Good Times FHD+
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_Good_Times/NDTV_Good_Times_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Infotainment", Travel XP JTV
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Travel_XP/Travel_XP_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Infotainment", Food Food FHD+
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Food_Food/Food_Food_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Infotainment", Living Foodz FHD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Living_Foodz/Living_Foodz_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Infotainment", MillionLights
+http://jiocgehub.jio.ril.com/Millionlights/Millionlights_800.m3u8
+#EXTINF:-1, group-title="Infotainment", Nat Geo Wild IND
+http://50.7.77.34/natgeowild/index.m3u8?token=RedflixTV
+#EXTINF:-1, group-title="Infotainment", Discovery Science HD USA
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1, group-title="Infotainment", Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1, group-title="Infotainment", Discovery
+http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
+#EXTINF:-1, group-title="Infotainment", CGTN Documentary Aus.
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1, group-title="Infotainment", Discovery Channel HD (USA)
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1, group-title="Infotainment", Investigation Discovery [USA)
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1, group-title="Infotainment", Travel Channel US
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1, group-title="Infotainment", Animal Planet US
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1, group-title="Infotainment", Food Food
+http://dbuqq908y3dcs.cloudfront.net:80/Live/_definst_/amlst:sweetbcha1novD139L240P/chunklist_b700000.m3u8
+#EXTINF:-1, group-title="Infotainment", Foodie
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+#EXTINF:-1, group-title="Infotainment", Better Nature US
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1, group-title="Infotainment", Better Life US
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:-1, group-title="Infotainment", Better Health US
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1, group-title="Infotainment", Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1, group-title="Infotainment", Insight
+http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
+#EXTINF:-1, group-title="Infotainment", FTV High
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1, group-title="Infotainment", FTV Med
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1, group-title="Infotainment", FTV Low
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1, group-title="Infotainment", Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1, group-title="Infotainment", Fashion TV Midnite
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1, group-title="Kids", Nickelodeon
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Nickelodeon/Nickelodeon_JSRV7_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Kids", Nick Junior
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Junior/Nick_Junior_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Kids", Nick Hindi
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Nick_Hindi/Nick_Hindi_JSRV7_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Kids", Discovery Kids 1
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Kids_1/Discovery_Kids_1_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Kids", Discovery Kids 2
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Kids_2/Discovery_Kids_2_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Kids", CartoonNetwork HD Eng H
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CN_HD_English/CN_HD_English_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Kids", Cartoon Network Hindi H
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Kids", Cartoon Network Hindi L
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Kids", Pogo
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Kids", Sony Yay
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226065/index.m3u8
+#EXTINF:-1, group-title="Kids", Sonic Nickelodeon
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sonic_Nickelodeon/Sonic_Nickelodeon_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Kids", CartoonNetwork Intl.
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1, group-title="Kids", CartoonNetwork Int. 2
+http://4f9cc916.ottv.info/iptv/G4FZPPQUWQ68DR/143/index.m3u8
+#EXTINF:-1, group-title="Kids", Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1, group-title="Kids", Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1, group-title="Kids", Disney channel
+http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:-1, group-title="Kids", BOOMERANG
+http://95.170.215.118/hls/m3u8/Boomerang.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:-1, group-title="Hindi Music", ZOOM
+http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/ZOOM/ZOOM_JSRV10_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJh|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Music", MTV
+http://ngprsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV/MTV_800.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="Hindi Music", MTV HD+
+http://ngprsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV_HD_Plus/MTV_HD_Plus_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", Star World HD FHD
+http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_World_HD/Star_World_HD_JSRV7_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", Star World SD FHD
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_World/Star_World_JSRV11_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", Star World Premiere HD FHD+
+http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_World_Premeir_HD/Star_World_Premeir_HD_JSRV7_8000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", Star Movies SD FHD+
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Movies/Star_Movies_JSRV10_8000?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", Star Movies HD FHD
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Movies_HD/Star_Movies_HD_JSRV7_4000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", Star Movies HD FHD+
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Star_Movies_HD/Star_Movies_HD_JSRV7_8000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", Star Movies Select FHD+
+http://sngprecdnems14.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Star_Movies_Select_HD/Star_Movies_Select_HD_JSRV11_8000.m3u8?jct=i56pVEOliGJ6yZdJMDMLqQ&pxe=1564808193&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", Colors Infinity HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_Infinity_HD_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", Sony Pix HD
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_JSRV1_8000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", Sony Pix
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:-1, group-title="English Channels", Romedy Now HD
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Romedy_Now_HD/Romedy_Now_HD_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", AXN HD
+http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/index.m3u8
+#EXTINF:-1, group-title="English Channels", WB
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/WB/WB_1200.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", HBO HD
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/HBO_HD/HBO_HD_JSRV4_8000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", HBO HD
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/HBO_HD/HBO_HD_JSRV4_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", Comedy Central HD
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Comedy_Central_HD/Comedy_Central_HD_8000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", Movies Now
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Movies_Now_HD/Movies_Now_HD_JSRV6_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", MNX
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Movies_Now2_HD/Movies_Now2_HD_JSRV6_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", MN+
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MNPLUS/MNPLUS_4000.m3u8?jct=ZgUCpa78weI1Mud0F480NQ&pxe=1560770528&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
+#EXTINF:-1, group-title="English Channels", Zee World M
+http://161.0.157.5/PLTV/88888888/224/3221226542/index.m3u8
+#EXTINF:-1, group-title="English Channels", Sky Movies Action
+http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:-1, group-title="English Channels", Sky Movies Premiere
+http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:-1, group-title="English Channels", Sky Movies Select
+http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:-1, group-title="English Channels", HBO 1
+http://95.170.215.118/hls/m3u8/HBO.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:-1, group-title="English Channels", HBO 2
+http://95.170.215.118/hls/m3u8/HBO-2.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:-1, group-title="English Channels", HBO 2 Intl.
+http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
+#EXTINF:-1, group-title="English Channels", HBO 3
+http://95.170.215.118/hls/m3u8/HBO-3.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:-1, group-title="English Channels", FOX Movies Asia
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="English Channels", FOX
+http://161.0.157.50/PLTV/88888888/224/3221227042/index.m3u8
+#EXTINF:-1, group-title="English Channels", FOX HD
+http://161.0.157.38/PLTV/88888888/224/3221227013/index.m3u8
+#EXTINF:-1, group-title="English Channels", FOX Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1, group-title="English Channels", FOX Premium Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1, group-title="English Channels", FOX Cinema Premium
+http://161.0.157.7/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:-1, group-title="English Channels", FOX Action Movies
+http://103.242.13.90:5555/udp/239.4.1.72:10000
+#EXTINF:-1, group-title="English Channels", 24/7 Hollywood Movies 1
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="English Channels", 24/7 Hollywood Movies 2
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="English Channels", 24/7 Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1, group-title="English Channels", 24/7 Hollywood Movies 4
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="English Channels", Hollywood M1
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="English Channels", Hollywood M2
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="English Channels", Hollywood M3
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
